@@ -16,12 +16,5 @@
     "url": "https://github.com/jchiefelk/node-bloombergAPI/issues"
   },
   "homepage": "https://github.com/jchiefelk/node-bloombergAPI#readme",
-
-  "targets": [
-      {
-        "target_name": "addon",
-        "sources": [ "hello.cc" ]
-      }
-    ]
   
 }
